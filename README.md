@@ -3,7 +3,7 @@
 ## 📈 **Status Geral dos Módulos**
 | Módulo | Aulas | Status | Horas | Progresso |
 |--------|-------|--------|-------|-----------|
-| 1. Ferramentas de Dados | 23 | ✅ **Concluído** | 3h41 | 100% |
+| [1. Ferramentas de Dados](https://github.com/gyamada22/powerbi-excel-analytics/blob/main/Excel/01_ferramentas_dados/README.md) | 23 | ✅ **Concluído** | 3h41 | 100% |
 | 2. Funções Mercado | 79 | 🔄 **Em andamento** | 15h13 | 0% (0/79) |
 | 3. Exercícios Básicos | 16 | ⏳ **Pendente** | 3h49 | 0% |
 | 4. Tabela Dinâmica | 18 | ⏳ **Pendente** | 3h25 | 0% |
@@ -18,10 +18,7 @@
 
 
 ## 🔄 **Próximos Passos**
-1. Completar módulo 2 (38 aulas restantes)
-2. Iniciar módulo 3 de exercícios
-3. Praticar com projeto real usando **Consolidar + CONT.SES**
-
+- Completar módulo 2 (79 aulas restantes)
 ---
 
 📌 *Atualizado em: 11/12/2025* | [Ver log diário completo](../logs_diarios/2025-12-11.md)
