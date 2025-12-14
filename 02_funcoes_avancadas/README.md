@@ -4,7 +4,7 @@
 - **Aulas:** 79/79
 - **Duração:** 15h13min
 - **Progresso:** 100%
-- 
+
 ## 📌 Conteúdos Aprendidos
 - Funções Lógicas: `SE`, `E`, `OU`
 - Funções Condicionais: `CONT.SES`, `SOMASES`, `MÉDIASES`, `MÁXIMOSES`, `MÍNIMOSES`
