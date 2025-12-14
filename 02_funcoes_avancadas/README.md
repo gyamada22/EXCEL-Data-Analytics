@@ -1,6 +1,6 @@
-# 🛠️ Módulo 8 - Funções Mercado de Trabalho
+# 🛠️ Módulo 2 - Funções Mercado de Trabalho
 
-## ✅ Status: CONCLUÍDO (__/__/2025)
+## ✅ Status: CONCLUÍDO (13/12/2025)
 - **Aulas:** 79/79
 - **Duração:** 15h13min
 - **Progresso:** 100%
