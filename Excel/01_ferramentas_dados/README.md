@@ -51,4 +51,4 @@
 
 ---
 
-📌 *Última prática: 11/12/2025 - Consolidar*
+📌 *Última prática: 11/12/2025 - Consolidar + Exercícios*
