@@ -93,13 +93,53 @@
 ### 🔧 **Função SE**
 - Introdução ao `SE()`, `SE Composto` e `SE Trancamento Parcial`
 - Classificação de dados em faixas
-- Uso em tabelas e repetições para várias células
+- Uso em tabelas e replicação para várias células
+- Base para regras de negócio em análises de dados
 
 ### ⚙️ **Funções de Contagem e Agregação**
 - `CONT.SES()`, `SOMASES()`, `MÉDIASES()`, `MÁXIMOSES()` e `MÍNIMOSES`
-- Contagem e soma com múltiplos critérios
-- Exercícios práticos para fixação de conceitos
+- Contagem, soma e métricas condicionais com múltiplos critérios
+- Comparação correta de datas e uso de curingas (`*`)
+- Exercícios práticos para fixação dos conceitos
 
 ### 🔍 **Buscas e Localização de Dados**
-- Uso de `PROCV()`, `PROCH()`, `PROCX()`, `ÍNDICE()`, `CORRESP()`
-- Combinação de funções de
+- Uso de `PROCV()`, `PROCH()` e `PROCX()`
+- Limitações do PROCV/PROCH e quando substituí-los
+- Uso de chave composta para buscas avançadas
+- Busca em múltiplas colunas e múltiplos critérios
+- Tratamento de erros com `SEERRO()`
+
+### 🚀 **Buscas Avançadas e Modernas**
+- `PROCX()` com:
+  - Valores não encontrados
+  - Valores aproximados
+  - Ordem de pesquisa
+  - Busca dupla e tripla
+- Alternativa moderna e robusta ao PROCV
+
+### 🧠 **ÍNDICE + CORRESP (Busca Profissional)**
+- Separação entre localizar (`CORRESP`) e retornar (`ÍNDICE`)
+- Busca dinâmica por linha e coluna
+- Montagem de resumos automáticos
+- Substituição completa do PROCV em cenários complexos
+
+### 🧭 **Referências Dinâmicas**
+- Uso de `DESLOC()` para retornar valores, colunas e somatórios
+- Combinação de `DESLOC()` com `CORRESP()`
+- Aplicação em validação de dados e relatórios dinâmicos
+
+### 🔤 **Função INDIRETO**
+- Consulta dinâmica entre múltiplas planilhas
+- Uso com `CONT.SES()` e outras funções
+- Trabalho com intervalos nomeados
+- Criação de modelos flexíveis e reutilizáveis
+
+### 📐 **Funções Avançadas**
+- Uso de `SOMARPRODUTO()` para cálculos matriciais
+- Combinação de lógica + matemática
+- Resolução de cenários onde funções condicionais não são suficientes
+
+### 🧪 **Exercícios Práticos**
+- Fixação intensiva com exercícios reais
+- Combinação de múltiplas funções em um único problema
+- Simulação de cenários do mercado de trabalho
