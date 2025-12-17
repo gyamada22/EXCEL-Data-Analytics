@@ -1,4 +1,4 @@
-# 🛠️ Módulo de Exercícios 3 — 
+# 🛠️ Módulo de Exercícios 3 
 
 ## ✅ Status: CONCLUÍDO
 
