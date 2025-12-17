@@ -1,62 +1,122 @@
-# 🛠️ Módulo 1 - Ferramentas de Dados
+# 🛠️ Módulo 1 — Ferramentas de Dados
 
-## ✅ Status: CONCLUÍDO (11/12/2025)
-- **Aulas:** 23/23
-- **Duração:** 3h41min
-- **Progresso:** 100%
+## ✅ Status: CONCLUÍDO
 
-## 📌 Conteúdos Aprendidos
-- Manipulação e tratamento de dados tabulares
-- Separação e reorganização de dados textuais
-- Limpeza de bases com remoção de duplicidades
-- Criação de regras e restrições para entrada de dados
-- Validação de informações com critérios personalizados
-- Consolidação de dados de múltiplas planilhas
-- Padronização e preparação de dados para análise
-
-## 📚 Aulas Assistidas
-| Aula | Tema | Duração | Status |
-|------|------|---------|--------|
-| 1–5 | Texto para Colunas | 50min | ✅ |
-| 6–8 | Preenchimento Relâmpago | 32min | ✅ |
-| 9–10 | Remover Duplicatas | 22min | ✅ |
-| 11–19 | Validação de Dados | 74min | ✅ |
-| 20 | Consolidar | 12min | ✅ |
-| 21–23 | Exercícios Práticos | 19min | ✅ |
-
-## 💡 Destaques do Módulo
-
-### 🔧 **Texto para Colunas**
-- Separação de dados por delimitadores ou largura fixa
-- Importação correta de arquivos `.txt` e `.csv`
-- Ajuste de separador decimal e encoding
-- Estruturação inicial de bases desorganizadas
-
-### ⚡ **Preenchimento Relâmpago**
-- Identificação automática de padrões
-- Separação e junção de textos com formatação
-- Criação rápida de colunas derivadas
-- Otimização de tarefas repetitivas
-
-### 🗑️ **Remover Duplicatas**
-- Limpeza de registros repetidos
-- Comparação por uma ou múltiplas colunas
-- Preservação do primeiro registro válido
-- Aplicação em bases de clientes e produtos
-
-### ✅ **Validação de Dados**
-- Criação de listas suspensas e regras de entrada
-- Validações condicionais e dependentes
-- Mensagens personalizadas de erro e orientação
-- Uso de fórmulas e intervalos nomeados
-- Garantia de qualidade e consistência dos dados
-
-### 🎯 **Consolidar**
-- Agregação de dados entre múltiplas planilhas
-- Operações de soma, média, contagem, máximo e mínimo
-- Centralização de relatórios periódicos
-- Redução significativa de trabalho manual
+* **Aulas:** 23/23
+* **Duração Total:** 3h41min
+* **Progresso:** 100%
 
 ---
 
-📌 *Última prática: 11/12/2025 - Consolidar + Exercícios*
+## 🎯 Objetivo do Módulo
+
+Este módulo é focado no uso das **Ferramentas de Dados do Excel** para limpeza, padronização, validação e organização de bases, habilidades essenciais para qualquer profissional que trabalhe com dados.
+
+O objetivo é transformar bases **desorganizadas ou brutas** em dados prontos para análise, relatórios e tomada de decisão no ambiente corporativo.
+
+---
+
+## 📌 Principais Conceitos Trabalhados
+
+* Limpeza e estruturação de bases de dados
+* Padronização de informações textuais e numéricas
+* Controle de entrada de dados
+* Prevenção de erros em planilhas
+* Automatização de processos manuais
+
+---
+
+## 🧠 Ferramentas e Assuntos Utilizados
+
+### 🧩 **Texto para Colunas**
+
+* Separação de dados por delimitadores
+* Largura fixa
+* Importação de arquivos texto
+* Correção de separador decimal
+* Organização de bases desestruturadas
+
+### ⚡ **Preenchimento Relâmpago (Flash Fill)**
+
+* Separação automática de textos
+* Junção de textos
+* Identificação de padrões
+* Quando usar Flash Fill vs fórmulas
+
+### 🧹 **Remover Duplicadas**
+
+* Remoção de duplicidades em uma coluna
+* Remoção de duplicidades em múltiplas colunas
+* Garantia de unicidade em bases de dados
+
+### 🧷 **Validação de Dados**
+
+* Criação de listas suspensas
+* Mensagens de erro personalizadas
+* Validação de CPF
+* Replicação de validações
+* Atualização automática de listas
+* Intervalos nomeados
+* Listas condicionadas
+* Avisos e mensagens informativas
+* Validação com fórmulas
+
+### 🧮 **Consolidar Dados**
+
+* Consolidação de dados de múltiplas planilhas
+* Agrupamento de informações
+* Criação de resumos automáticos
+
+---
+
+## 🧪 Exercícios Práticos
+
+* Limpeza de bases reais utilizando Texto para Colunas
+* Padronização de informações com Preenchimento Relâmpago
+* Remoção de registros duplicados
+* Criação de validações robustas para evitar erros de digitação
+* Simulação de controles de dados utilizados no mercado de trabalho
+
+---
+
+## 🎓 Estrutura das Aulas
+
+| Aula | Tema                                        | Duração |
+| ---- | ------------------------------------------- | ------- |
+| 1    | Texto para Colunas — Delimitadores          | 10:50   |
+| 2    | Texto para Colunas — Arrumando Bases        | 13:23   |
+| 3    | Texto para Colunas — Largura Fixa           | 09:38   |
+| 4    | Texto para Colunas — Importar Texto         | 09:01   |
+| 5    | Texto para Colunas — Separador Decimal      | 08:05   |
+| 6    | Flash Fill — Separar Textos                 | 13:08   |
+| 7    | Flash Fill — Juntar Textos                  | 12:15   |
+| 8    | Flash Fill — Quando Usar                    | 06:58   |
+| 9    | Remover Duplicadas — Uma Coluna             | 09:54   |
+| 10   | Remover Duplicadas — Múltiplas Colunas      | 12:07   |
+| 11   | Validação de Dados — Criar Listas           | 08:15   |
+| 12   | Validação de Dados — Mensagens de Erro      | 15:41   |
+| 13   | Validação de Dados — CPF                    | 08:06   |
+| 14   | Validação de Dados — Replicar Validações    | 06:15   |
+| 15   | Validação de Dados — Atualização Automática | 03:56   |
+| 16   | Validação de Dados — Intervalos Nomeados    | 09:03   |
+| 17   | Validação de Dados — Lista Condicionada     | 15:08   |
+| 18   | Validação de Dados — Avisos e Informações   | 07:17   |
+| 19   | Validação de Dados com Fórmulas             | 11:44   |
+| 20   | Consolidar Dados                            | 11:49   |
+| 21   | Exercícios — Texto para Colunas             | 05:32   |
+| 22   | Exercícios — Remover Duplicadas             | 03:27   |
+| 23   | Exercícios — Validação de Dados             | 09:38   |
+
+---
+
+## 🚀 Resultado Final
+
+Ao concluir este módulo, foram consolidadas habilidades fundamentais para:
+
+* Limpar e preparar dados para análise
+* Evitar erros de entrada de dados
+* Criar bases confiáveis e padronizadas
+* Aumentar a produtividade e a qualidade das análises em Excel
+
+📌 *Módulo essencial para garantir qualidade e confiabilidade dos dados antes de qualquer análise.*
+
