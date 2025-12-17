@@ -1,4 +1,4 @@
-# 🛠️ Módulo 13 — Funções de Texto
+# 🛠️ Módulo 6 — Funções de Texto
 
 ## ✅ Status: CONCLUÍDO
 
