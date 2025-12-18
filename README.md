@@ -4,7 +4,7 @@ Repositório dedicado ao meu aprendizado prático em **Excel aplicado à anális
 
 ## 📊 Progresso Geral
 
-▰▰▰▰▰▰▱▱▱▱ 55%
+▰▰▰▰▰▰▰▱▱▱ 60%
 
 ---
 
@@ -18,13 +18,13 @@ Repositório dedicado ao meu aprendizado prático em **Excel aplicado à anális
 | [4. Tabela Dinâmica](https://github.com/gyamada22/powerbi-excel-analytics/blob/main/Excel/04_tabela_dinamica/README.md) | 18 | ✅ **Concluído** | 3h25 | 100% |
 | 5. Gráficos | 50 | ⏳ **Pendente** | 12h38 | 0% |
 | [6. Funções de Texto](https://github.com/gyamada22/powerbi-excel-analytics/blob/main/Excel/06_funcoes_texto/README.md) | 14 | ✅ **Concluído** | 2h38 | 100% |
-| 7. Funções de Data | 13 | ⏳ **Pendente** | 1h59 | 0% |
+| [7. Funções de Data](https://github.com/gyamada22/powerbi-excel-analytics/blob/main/Excel/07_funcoes_data/README.md) | 13 | ✅ **Concluído** | 1h59 | 100% |
 | 8. Funções Financeiras | 16 | ⏳ **Pendente** | 2h40 | 0% |
 | 9. Previsão e Solver | 11 | ⏳ **Pendente** | 2h21 | 0% |
 | 10. Proteção e Impressão | 11 | ⏳ **Pendente** | 1h08 | 0% |
 
 **Total:** 251 aulas | ~49 horas  
-**Progresso geral:** **~55% concluído** ✅
+**Progresso geral:** **~60% concluído** ✅
 
 
 
