@@ -1,4 +1,4 @@
-# 🛠️ Módulo 16 — Previsão e Solver
+# 🛠️ Módulo 9 — Previsão e Solver
 
 ## ✅ Status: CONCLUÍDO
 
