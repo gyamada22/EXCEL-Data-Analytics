@@ -34,7 +34,9 @@ Repositório dedicado ao meu aprendizado prático em **Excel aplicado à anális
 | [8. Funções Financeiras](https://github.com/gyamada22/powerbi-excel-analytics/blob/main/Excel/08_fun%C3%A7oes_financeiras/README.md) | 16 | ✅ **Concluído** | 2h40 | 100% |
 | [9. Previsão e Solver](https://github.com/gyamada22/powerbi-excel-analytics/blob/main/Excel/09_previsao_solver/README.md) | 11 | ✅ **Concluído** | 2h21 | 100% |
 | [10. Proteção e Impressão](https://github.com/gyamada22/powerbi-excel-analytics/blob/main/Excel/10_protecao_impressao/READ.md) | 11 | ✅ **Concluído** | 1h08 | 100% |
+| [11. Power Query](https://github.com/gyamada22/powerbi-excel-analytics/blob/main/Excel/11_power_query/README.md) | 21 | ✅ **Concluído** | 4h16 | 100% |
+| [12. Power Pivot](https://github.com/gyamada22/powerbi-excel-analytics/blob/main/Excel/12_power_pivot/README.md) | 16 | ✅ **Concluído** | 2h45 | 100% |
 
 
-**Total:** 251 aulas | ~49 horas  
+**Total:** 328 aulas | ~56 horas  
 **Progresso geral:** **~100% concluído** ✅
